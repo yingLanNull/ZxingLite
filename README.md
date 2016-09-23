@@ -23,7 +23,6 @@ dependencies {
 
 #### In Java Code
 ```
-	{
 	step1
 
 	    Intent intent = new Intent();
@@ -31,6 +30,7 @@ dependencies {
         startActivityForResult(intent, REQUEST_CODE);
 
     step2
+    
         @Override
             protected void onActivityResult(int requestCode, int resultCode, Intent data) {
                 super.onActivityResult(requestCode, resultCode, data);
@@ -39,7 +39,6 @@ dependencies {
                     String scanResult = bundle.getString(Intents.Scan.RESULT);
                 }
             }
-    }
 
 ```
 
