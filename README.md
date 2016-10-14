@@ -1,8 +1,8 @@
 # ZxingLite
-## 摘要
+## Abstract 摘要
 一款精减版的扫码控件  只有扫码,没有其他定制
 
-## 截图
+## Screenshots 截图
 ![1](https://github.com/yingLanNull/ZxingLite/blob/master/show/Screenshot_2016-09-23-11-58-23.png)
 ![2](https://github.com/yingLanNull/ZxingLite/blob/master/show/Screenshot_2016-09-23-11-58-17.png)
 ![3](https://github.com/yingLanNull/ZxingLite/blob/master/show/Screenshot_2016-09-23-11-58-08.png)
@@ -42,7 +42,7 @@ dependencies {
 
 ```
 
-## LICENSE
+## LICENSE 开源协议
 
     Apache License Version 2.0
 
